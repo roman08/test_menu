@@ -1,0 +1,160 @@
+{
+  "user": {
+    "name": "Joel",
+    "email": "joel@softrek.mx",
+    "avatar": "https://avatars.dicebear.com/api/avataaars/joel.svg"
+  },
+  "teams": [
+    {
+      "name": "Carry On",
+      "logo": "/favicon.svg",
+      "url": "https://home.stage.v3.softrek.mx/",
+      "plan": "V3"
+    },
+    {
+      "name": "Pay Off",
+      "logo": "gallery-vertical-end",
+      "url": "https://home.stage.v3.payoff.mx/",
+      "plan": "V3"
+    }
+  ],
+  "navMain": [
+    {
+      "title": "Home - git final - 1",
+      "url": "https://home.stage.v3.softrek.com.mx/",
+      "icon": "house",
+      "isActive": true,
+      "new": false,
+      "items": []
+    },
+    {
+      "title": "PayOff",
+      "url": "https://home.stage.v3.payoff.mx/",
+      "icon": "credit-card",
+      "isActive": false,
+      "new": false,
+      "items": []
+    },
+    {
+      "title": "Reservas",
+      "url": "#",
+      "icon": "calendar-check",
+      "new": false,
+      "isActive": false,
+      "items": [
+        {
+          "title": "CarryOn",
+          "url": "https://control-reserva.stage.v3.softrek.mx/reservas-carryon"
+        },
+        {
+          "title": "TravelCompositor",
+          "url": "https://control-reserva.stage.v3.softrek.mx/reservas-travelcompositor"
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "url": "#",
+      "new": false,
+      "icon": "megaphone",
+      "items": [
+        {
+          "title": "Flayers",
+          "url": "https://marketing.stage.v3.softrek.mx/flyers"
+        },
+        {
+          "title": "Microblogs",
+          "url": "https://marketing.stage.v3.softrek.mx/Microblogs"
+        }
+      ]
+    },
+    {
+      "title": "Catalogos",
+      "url": "#",
+      "new": false,
+      "icon": "list",
+      "items": [
+        {
+          "title": "Países",
+          "url": "https://catalogs.stage.v3.softrek.mx/countries"
+        },
+        {
+          "title": "Nacionalidades",
+          "url": "https://catalogs.stage.v3.softrek.mx/nationalities"
+        },
+        {
+          "title": "Monedas",
+          "url": "https://catalogs.stage.v3.softrek.mx/currency"
+        }
+      ]
+    },
+    {
+      "title": "Hoteles",
+      "url": "#",
+      "new": false,
+      "icon": "bed",
+      "items": [
+        {
+          "title": "Hotel único",
+          "url": "https://hotels.stage.v3.softrek.mx/own-hotel"
+        }
+      ]
+    },
+    {
+      "title": "Vuelos",
+      "url": "#",
+      "new": false,
+      "icon": "plane",
+      "items": [
+        {
+          "title": "Aerolíneas",
+          "url": "https://flights.stage.v3.softrek.mx/airlines"
+        },
+        {
+          "title": "Aeropuertos",
+          "url": "https://flights.stage.v3.softrek.mx/airports"
+        },
+        {
+          "title": "Booking",
+          "url": "https://flights.stage.v3.softrek.mx/flights-booking"
+        }
+      ]
+    },
+    {
+      "title": "Tours",
+      "url": "#",
+      "new": false,
+      "icon": "bike",
+      "items": [
+        {
+          "title": "Booking",
+          "url": "https://tours.stage.v3.softrek.mx/tours-booking"
+        }
+      ]
+    },
+    {
+      "title": "Traslados",
+      "url": "#",
+      "new": false,
+      "icon": "bus",
+      "items": [
+        {
+          "title": "Booking",
+          "url": "https://transfers.stage.v3.softrek.com.mx/transfer-results"
+        }
+      ]
+    },
+    {
+      "title": "Usuarios",
+      "url": "#",
+      "new": false,
+      "icon": "users",
+      "items": [
+        {
+          "title": "Usuarios",
+          "url": "https://settings.stage.v3.softrek.mx/operators/users"
+        }
+      ]
+    }
+  ]
+}
